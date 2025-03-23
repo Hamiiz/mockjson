@@ -1,0 +1,52 @@
+{
+  "houses": [
+    {
+      "id": 1,
+      "title": "Cozy 2-Bedroom Apartment",
+      "location": "Downtown, New York",
+      "rent": 2500,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "square_feet": 900,
+      "available": true,
+      "amenities": ["WiFi", "Air Conditioning", "Washer/Dryer"],
+      "owner": {
+        "name": "John Doe",
+        "contact": "+1 123 456 7890",
+        "email": "johndoe@example.com"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Luxury 3-Bedroom Condo",
+      "location": "Los Angeles, CA",
+      "rent": 4500,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "square_feet": 1500,
+      "available": false,
+      "amenities": ["Pool", "Gym", "Balcony"],
+      "owner": {
+        "name": "Jane Smith",
+        "contact": "+1 987 654 3210",
+        "email": "janesmith@example.com"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Spacious 4-Bedroom House",
+      "location": "Austin, TX",
+      "rent": 3500,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "square_feet": 2000,
+      "available": true,
+      "amenities": ["Garage", "Garden", "Fireplace"],
+      "owner": {
+        "name": "David Johnson",
+        "contact": "+1 555 123 4567",
+        "email": "davidj@example.com"
+      }
+    }
+  ]
+}
