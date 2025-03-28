@@ -46,7 +46,106 @@
         "name": "David Johnson",
         "contact": "+1 555 123 4567",
         "email": "davidj@example.com"
+      },
+      {
+      "id": 4,
+      "title": "Modern Studio Apartment",
+      "location": "San Francisco, CA",
+      "rent": 2800,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "square_feet": 600,
+      "available": true,
+      "amenities": ["WiFi", "Gym", "Elevator"],
+      "owner": {
+        "name": "Emily Brown",
+        "contact": "+1 222 333 4444",
+        "email": "emilyb@example.com"
       }
+    },
+    {
+      "id": 5,
+      "title": "Charming 2-Bedroom Townhouse",
+      "location": "Seattle, WA",
+      "rent": 3200,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "square_feet": 1200,
+      "available": false,
+      "amenities": ["Fireplace", "Garage", "Patio"],
+      "owner": {
+        "name": "Michael Lee",
+        "contact": "+1 333 555 6666",
+        "email": "michaell@example.com"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Luxury Penthouse",
+      "location": "Miami, FL",
+      "rent": 7000,
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "square_feet": 3000,
+      "available": true,
+      "amenities": ["Ocean View", "Private Pool", "Gym"],
+      "owner": {
+        "name": "Sophia Martinez",
+        "contact": "+1 444 777 8888",
+        "email": "sophiam@example.com"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Cozy 1-Bedroom Loft",
+      "location": "Portland, OR",
+      "rent": 2100,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "square_feet": 750,
+      "available": true,
+      "amenities": ["Balcony", "WiFi", "Pet-Friendly"],
+      "owner": {
+        "name": "Kevin Adams",
+        "contact": "+1 777 888 9999",
+        "email": "kevina@example.com"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Spacious 3-Bedroom Apartment",
+      "location": "Chicago, IL",
+      "rent": 3600,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "square_feet": 1400,
+      "available": false,
+      "amenities": ["Gym", "Elevator", "Parking"],
+      "owner": {
+        "name": "Rachel Green",
+        "contact": "+1 888 999 0000",
+        "email": "rachelg@example.com"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Classic 2-Bedroom Home",
+      "location": "Boston, MA",
+      "rent": 3100,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "square_feet": 1000,
+      "available": true,
+      "amenities": ["Yard", "Fireplace", "Washer/Dryer"],
+      "owner": {
+        "name": "Tom Wilson",
+        "contact": "+1 111 222 3333",
+        "email": "tomw@example.com"
+      }
+    }
+    
+
+
     }
   ]
 }
